@@ -14,7 +14,7 @@ Hedgehog is an application that will help you adopt a hedgehog.
 <!-- You can add more screenshots here if you like -->
 <img src="/assets/device-2021-03-02-192537.png" width="260">&emsp;<img src="/assets/device-2021-03-02-192610.png" width="260">
 
-[](assets/device-2021-03-02-195542.gif)
+![](assets/device-2021-03-02-195542.gif)
 
 ## License
 ```
